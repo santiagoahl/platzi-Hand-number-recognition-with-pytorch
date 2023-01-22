@@ -2,7 +2,7 @@
   <br>
   <a href="https://pytorch.or"><img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/profiler.png" alt="Torch" width="200"></a>
   <br>
-  Hand written number recognition
+  Hand number number recognition
   <br>
 </h1>
 
